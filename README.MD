@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=xAyCPllpTIs
 
 Links: https://abbezz.github.io/Day-Planner-project/
 
+https://github.com/abbezz/Day-Planner-project
+
 
 ## Other Common Github Profile Sections
 
