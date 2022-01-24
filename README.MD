@@ -30,7 +30,7 @@ https://github.com/abbezz/Day-Planner-project
 ## Other Common Github Profile Sections
 
 
-🧠 I'm currently learning... Full stack developer
+
 
 
 
@@ -65,5 +65,6 @@ If you have any feedback, please reach out to me at abbezz@live.com
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+
+🧠 I'm currently learning to be a Full stack developer.
 
