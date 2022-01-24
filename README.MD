@@ -32,7 +32,7 @@ https://github.com/abbezz/Day-Planner-project
 
 🧠 I'm currently learning... Full stack developer
 
-📫 How to reach me... abbezz@live.com 
+
 
 
 
